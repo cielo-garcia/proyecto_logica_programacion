@@ -1,4 +1,4 @@
-import re  # Importamos el módulo de expresiones regularez
+import re  # Importamos el módulo de expresiones regulares
 
 clientes = [
     {"nombre": "Carlos", "apellido": "López", "email": "carlos.lopez@gmail.com"},
